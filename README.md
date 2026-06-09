@@ -41,16 +41,16 @@ higher departure rate. Research & Development concentrates
 ## Dashboard Pages
 
 ### Page 1 — Compensation Overview
-![Compensation Overview](screenshots/page1_compensation_overview.png)
+<img width="606" height="335" alt="page1_compensation_overview" src="https://github.com/user-attachments/assets/01a77716-a535-4910-914e-d6759c11a0c2" />
+
 
 ### Page 2 — Pay Equity Analysis
-![Pay Equity Analysis](screenshots/page2_pay_equity_analysis.png)
+<img width="602" height="338" alt="page2_pay_equity_analysis" src="https://github.com/user-attachments/assets/0c9a3d5a-79f3-4a24-870d-27c6d74ba5e0" />
+
 
 ### Page 3 — Talent Risk & Retention Analysis
-![Talent Risk](screenshots/page3_talent_risk.png)
+<img width="602" height="341" alt="page3_talent_risk" src="https://github.com/user-attachments/assets/fc77be29-2ca8-4b60-a18f-a4f991cdfecc" />
 
-### Data Model — Star Schema
-![Data Model](screenshots/model_view_star_schema.png)
 
 ---
 
